@@ -5,9 +5,6 @@
 <br><br>
 > I use ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=azuredevops&logoColor=white) as my main development platform
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/owndev_) 
-
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-502bd3?style=flat&logo=.net&logoColor=white)
