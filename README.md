@@ -1,13 +1,11 @@
 # 💫 About Me:
 - C# .NET Developer
 - IT-Administrator
-- Microsoft Expert
 <br><br>
-> I use ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=azuredevops&logoColor=white) as my main development platform
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-502bd3?style=flat&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-502bd3?style=flat&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white)
 ![WinUI](https://img.shields.io/badge/WinUI-0f50b7?style=flat&logo=winui&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-0f50b7?style=flat&logo=.netmaui&logoColor=white)
@@ -41,8 +39,7 @@
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=owndev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=owndev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=owndev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owndev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -53,4 +50,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=owndev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=owndev&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=owndev)
