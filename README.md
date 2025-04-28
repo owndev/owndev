@@ -1,9 +1,11 @@
+<!-- Access Level: Red Team Operator. -->
+
 # 👋 Hi, I'm owndev
 
 💻 Software Engineer | 🛠️ IT Administrator | ☁️ Cloud & DevOps Enthusiast  
 🛡️ Security Engineer | 🤖 AI Curious | 🚀 Always Exploring New Tech
 
----
+<br>
 
 ## 🚀 About Me
 
@@ -18,7 +20,7 @@ I'm a passionate and hands-on technologist with a strong background in software 
 
 > “🔐 Security isn't a feature - it's the foundation”
 
----
+<br>
 
 ## 💵 Own a Domain
 
@@ -31,7 +33,7 @@ I'm a passionate and hands-on technologist with a strong background in software 
 </p>
 
 > **Explore a selection of unique and memorable domain names** – ideal for developers, sysadmins, tech startups, or side projects.  
-> Grab your favorite before it's gone! 🚀
+> Interested? Feel free to explore — no pressure. 🚀
 
 | Domain | Description |
 |--------|-------------|
@@ -41,7 +43,7 @@ I'm a passionate and hands-on technologist with a strong background in software 
 | 🔹 [**ownhacker.com**](https://ownhacker.com) | Strong branding for pentesting, CTFs, or cyber labs. |
 | 🔹 [**ownquantum.com**](https://ownquantum.com) | Bold domain for quantum computing, AI, or future tech. |
 
----
+<br>
 
 ## 🧰 Tech Toolbox
 
@@ -87,7 +89,20 @@ I'm a passionate and hands-on technologist with a strong background in software 
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white)
 ![TOR](https://img.shields.io/badge/Tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
 
----
+<br>
+
+## 📊 Projects
+
+<p align="center">
+  <a href="https://github.com/owndev/Open-WebUI-Functions">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=owndev&repo=Open-WebUI-Functions&theme=radical" />
+  </a>
+  <a href="https://github.com/owndev/Versioning.NET">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=owndev&repo=Versioning.NET&theme=radical" />
+  </a>
+</p>
+
+<br>
 
 ## 📊 GitHub Stats
 
@@ -96,15 +111,7 @@ I'm a passionate and hands-on technologist with a strong background in software 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owndev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=owndev&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
+<br>
 
 ## 📈 Profile Views
 
