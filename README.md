@@ -37,7 +37,6 @@ I'm a passionate and hands-on technologist with a strong background in software 
 
 | Domain | Description |
 |--------|-------------|
-| 🔹 [**ownddns.com**](https://ownddns.com) | Ideal for dynamic DNS services, APIs, or self-hosted DNS tools. |
 | 🔹 [**ownsql.com**](https://ownsql.com) | Perfect for SQL tools, SaaS platforms, or dev environments. |
 | 🔹 [**ownspam.com**](https://ownspam.com) | Great for spam filters, honeypots, or email security. |
 | 🔹 [**ownhacker.com**](https://ownhacker.com) | Strong branding for pentesting, CTFs, or cyber labs. |
