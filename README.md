@@ -25,7 +25,6 @@ I'm a passionate and hands-on technologist with a strong background in software 
 ## 💵 Own a Domain
 
 <p align="center">
-  <a href="https://ownddns.com"><img src="https://img.shields.io/badge/ownddns.com-DDNS-blue?style=for-the-badge" /></a>
   <a href="https://ownsql.com"><img src="https://img.shields.io/badge/ownsql.com-SQL-orange?style=for-the-badge" /></a>
   <a href="https://ownspam.com"><img src="https://img.shields.io/badge/ownspam.com-SPAM-red?style=for-the-badge" /></a>
   <a href="https://ownhacker.com"><img src="https://img.shields.io/badge/ownhacker.com-HACKING-purple?style=for-the-badge" /></a>
