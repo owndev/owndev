@@ -95,9 +95,6 @@ I'm a passionate and hands-on technologist with a strong background in software 
   <a href="https://github.com/owndev/Open-WebUI-Functions">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=owndev&repo=Open-WebUI-Functions&theme=radical" />
   </a>
-  <a href="https://github.com/owndev/Versioning.NET">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=owndev&repo=Versioning.NET&theme=radical" />
-  </a>
 </p>
 
 <br>
